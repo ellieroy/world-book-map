@@ -1,0 +1,189 @@
+{
+  "Canada": [
+    {
+      "title": "The Handmaid's Tale",
+      "isbn": "9781328879943",
+      "read": 2020
+    },
+    {
+      "title": "Station Eleven",
+      "isbn": "9780385353304",
+      "read": 2021
+    },
+    {
+      "title": "Life of Pi",
+      "isbn": "9780770430078",
+      "read": 2022
+    }
+  ],
+  "Alabama": [
+    {
+      "title": "To Kill a Mockingbird",
+      "isbn": "9780060935467",
+      "read": null
+    }
+  ],
+  "Alaska": [],
+  "Arizona": [],
+  "Arkansas": [],
+  "California": [
+    {
+      "title": "Of Mice and Men",
+      "isbn": "9780142000670",
+      "read": null
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "isbn": "9780670016907",
+      "read": null
+    },
+    {
+      "title": "Cannery Row",
+      "isbn": "9780142000687",
+      "read": 2022
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "isbn": "9781501139239",
+      "read": 2024
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "isbn": "9780575094185",
+      "read": null
+    },
+    {
+      "title": "The Vanishing Half",
+      "isbn": "9780525536291",
+      "read": 2024
+    },
+    {
+      "title": "The Circle",
+      "isbn": "9780241970379",
+      "read": 2022
+    }
+  ],
+  "Colorado": [],
+  "Connecticut": [],
+  "Delaware": [],
+  "Florida": [],
+  "Georgia": [
+    {
+      "title": "The Color Purple",
+      "isbn": "9780143135692",
+      "read": 2023
+    }
+  ],
+  "Hawaii": [],
+  "Idaho": [],
+  "Illinois": [
+    {
+      "title": "Dark Matter",
+      "isbn": "9781101904220",
+      "read": 2024
+    }
+  ],
+  "Indiana": [],
+  "Iowa": [],
+  "Kansas": [],
+  "Kentucky": [],
+  "Louisiana": [],
+  "Maine": [],
+  "Maryland": [],
+  "Massachusetts": [],
+  "Michigan": [],
+  "Minnesota": [],
+  "Mississippi": [
+    {
+      "title": "The Help",
+      "isbn": "9780399155345",
+      "read": null
+    },
+    {
+      "title": "The Trees",
+      "isbn": "9781644450642",
+      "read": 2023
+    }
+  ],
+  "Missouri": [],
+  "Montana": [],
+  "Nebraska": [],
+  "Nevada": [],
+  "New Hampshire": [],
+  "New Jersey": [],
+  "New Mexico": [],
+  "New York": [
+    {
+      "title": "Severance",
+      "isbn": "9780374261597",
+      "read": 2024
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "isbn": "9780316769174",
+      "read": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "isbn": "9780241341469",
+      "read": null
+    },
+    {
+      "title": "A Little Life",
+      "isbn": "9780385539258",
+      "read": 2024
+    },
+    {
+      "title": "American Psycho",
+      "isbn": "9780679735779",
+      "read": null
+    },
+    {
+      "title": "The Goldfinch",
+      "isbn": "9780316055437",
+      "read": null
+    }
+  ],
+  "North Carolina": [],
+  "North Dakota": [],
+  "Ohio": [
+    {
+      "title": "Beloved",
+      "isbn": "9781784876432",
+      "read": 2025
+    }
+  ],
+  "Oklahoma": [],
+  "Oregon": [
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "isbn": "9780670023233",
+      "read": null
+    }
+  ],
+  "Pennsylvania": [],
+  "Rhode Island": [],
+  "South Carolina": [],
+  "South Dakota": [],
+  "Tennessee": [],
+  "Texas": [],
+  "Utah": [],
+  "Vermont": [
+    {
+      "title": "The Secret History",
+      "isbn": "9781400031702",
+      "read": 2023
+    }
+  ],
+  "Virginia": [],
+  "Washington": [],
+  "West Virginia": [],
+  "Wisconsin": [],
+  "Wyoming": [],
+  "Washington DC": [],
+  "Puerto Rico": [],
+  "US Virgin Islands": [],
+  "American Samoa": [],
+  "Guam": [],
+  "Northern Mariana Islands": []
+}

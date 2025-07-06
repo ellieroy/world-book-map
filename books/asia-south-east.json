@@ -1,0 +1,36 @@
+{
+  "Brunei": [],
+  "Cambodia": [],
+  "Indonesia": [],
+  "Laos": [],
+  "Malaysia": [],
+  "Myanmar": [],
+  "Philippines": [
+    {
+      "title": "Insurrecto",
+      "isbn": "9781616959449",
+      "read": 0
+    }
+  ],
+  "Singapore": [
+    {
+      "title": "How We Disappeared",
+      "isbn": "9781335953759",
+      "read": 0
+    }
+  ],
+  "Thailand": [],
+  "Timor-Leste": [],
+  "Vietnam": [
+    {
+      "title": "The Mountains Sing",
+      "isbn": "9781616208189",
+      "read": 0
+    },
+    {
+      "title": "Wandering Souls",
+      "isbn": "9781250863461",
+      "read": 0
+    }
+  ]
+}

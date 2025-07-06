@@ -1,0 +1,27 @@
+{
+  "Denmark": [],
+  "Estonia": [],
+  "Finland": [],
+  "Iceland": [],
+  "Latvia": [],
+  "Lithuania": [],
+  "Norway": [
+    {
+      "title": "Sophie's World",
+      "isbn": "9780425152256",
+      "read": 0
+    }
+  ],
+  "Sweden": [
+    {
+      "title": "The Girl With the Dragon Tattoo",
+      "isbn": "9780670069019",
+      "read": 2023
+    },
+    {
+      "title": "A Man Called Ove",
+      "isbn": "9781476738017",
+      "read": 2023
+    }
+  ]
+}

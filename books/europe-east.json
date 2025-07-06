@@ -1,0 +1,41 @@
+{
+  "Belarus": [],
+  "Bulgaria": [],
+  "Czech Republic": [
+    {
+      "title": "The Unbearable Lightness of Being",
+      "isbn": "9780571224388",
+      "read": 2021
+    }
+  ],
+  "Hungary": [],
+  "Poland": [
+    {
+      "title": "Drive Your Plow Over the Bones of the Dead",
+      "isbn": "9780525541332",
+      "read": 0
+    }
+  ],
+  "Moldova": [],
+  "Romania": [],
+  "Russia": [
+    {
+      "title": "The Master and Margarita",
+      "isbn": "9780679760801",
+      "read": 0
+    },
+    {
+      "title": "We",
+      "isbn": "9780241458747",
+      "read": 2023
+    }
+  ],
+  "Slovakia": [],
+  "Ukraine": [
+    {
+      "title": "Grey Bees",
+      "isbn": "9780857059345",
+      "read": 0
+    }
+  ]
+}

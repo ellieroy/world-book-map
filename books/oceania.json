@@ -1,0 +1,119 @@
+{
+  "Australia": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Cook Islands": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Fiji": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Kiribati": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Marshall Islands": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Micronesia": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Nauru": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "New Zealand": [
+    {
+      "title": "The Whale Rider",
+      "isbn": "9780152050160",
+      "read": 0
+    },
+    {
+      "title": "The Bone People",
+      "isbn": "9780140089226",
+      "read": 0
+    }
+  ],
+  "Niue": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Palau": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Papua New Guinea": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Samoa": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Solomon Islands": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Tonga": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Tuvalu": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ],
+  "Vanuatu": [
+    {
+      "title": "",
+      "isbn": "",
+      "read": 0
+    }
+  ]
+}
