@@ -10,7 +10,7 @@
   "Bosnia and Herzegovina": [
     {
       "title": "Black Butterflies",
-      "isbn": "9780593801857",
+      "isbn": "9780715654613",
       "read": 2025
     }
   ],
@@ -48,6 +48,12 @@
   "San Marino": [],
   "Serbia": [],
   "Slovenia": [],
-  "Spain": [],
+  "Spain": [
+    {
+      "title": "Nada",
+      "isbn": "9780812975833",
+      "read": 0
+    }
+  ],
   "Vatican City": []
 }
