@@ -1,0 +1,137 @@
+{
+  "China": [
+    {
+      "title": "The Three-Body Problem",
+      "isbn": "9781466853447",
+      "read": 0
+    },
+    {
+      "title": "Wild Swans: Three Daughters of China",
+      "isbn": "9780743246989",
+      "read": 2022
+    }
+  ],
+  "Japan": [
+    {
+      "title": "Men Without Women",
+      "isbn": "9780451494634",
+      "read": 2021
+    },
+    {
+      "title": "Sputnik Sweetheart",
+      "isbn": "9780375413469",
+      "read": 2021
+    },
+    {
+      "title": "After the Quake",
+      "isbn": "9780307424648",
+      "read": 2020
+    },
+    {
+      "title": "Dance Dance Dance",
+      "isbn": "9781448103676",
+      "read": null
+    },
+    {
+      "title": "Hard-Boiled Wonderland and the End of the World",
+      "isbn": "9781448103683",
+      "read": null
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "isbn": "9780679775430",
+      "read": null
+    },
+    {
+      "title": "Norwegian Wood",
+      "isbn": "9781448103706",
+      "read": null
+    },
+    {
+      "title": "Kafka on the Shore",
+      "isbn": "9781400079278",
+      "read": 0
+    },
+    {
+      "title": "A Wild Sheep Chase",
+      "isbn": "9781448103522",
+      "read": 0
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "isbn": "9781488077210",
+      "read": 2021
+    },
+    {
+      "title": "Heaven",
+      "isbn": "9781609456306",
+      "read": 2024
+    },
+    {
+      "title": "Ms Ice Sandwich",
+      "isbn": "9781782273318",
+      "read": 2024
+    },
+    {
+      "title": "Convenience Store Woman",
+      "isbn": "9781846276859",
+      "read": 2024
+    },
+    {
+      "title": "Kitchen",
+      "isbn": "9780571393299",
+      "read": 2023
+    },
+    {
+      "title": "The Travelling Cat Chronicles",
+      "isbn": "9781473541573",
+      "read": 2022
+    },
+    {
+      "title": "The Housekeeper and the Professor",
+      "isbn": "9781250375971",
+      "read": 2024
+    },
+    {
+      "title": "The Sailor Who Fell from Grace with the Sea",
+      "isbn": "9780679750154",
+      "read": 2020
+    },
+    {
+      "title": "Out",
+      "isbn": "9781473513631",
+      "read": 2022
+    },
+    {
+      "title": "The Devotion of Suspect X",
+      "isbn": "9780748126187",
+      "read": 2025
+    }
+  ],
+  "North Korea": [
+    {
+      "title": "In Order to Live: A North Korean Girl's Journey to Freedom",
+      "isbn": "9781594206795",
+      "read": 2024
+    }
+  ],
+  "South Korea": [
+    {
+      "title": "Kim Jiyoung, Born 1982",
+      "isbn": "9781471184291",
+      "read": 2022
+    },
+    {
+      "title": "Miss Kim Knows and Other Stories",
+      "isbn": "9781398522923",
+      "read": 2024
+    },
+    {
+      "title": "The Vegetarian",
+      "isbn": "9780553448184",
+      "read": 2025
+    }
+  ],
+  "Mongolia": [],
+  "Taiwan": []
+}

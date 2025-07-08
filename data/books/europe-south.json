@@ -1,0 +1,59 @@
+{
+  "Albania": [
+    {
+      "title": "Broken April",
+      "isbn": "9781446414170",
+      "read": 0
+    }
+  ],
+  "Andorra": [],
+  "Bosnia and Herzegovina": [
+    {
+      "title": "Black Butterflies",
+      "isbn": "9780593801857",
+      "read": 2025
+    }
+  ],
+  "Croatia": [
+    {
+      "title": "Girl at War",
+      "isbn": "9780812996340",
+      "read": 0
+    }
+  ],
+  "Greece": [],
+  "Italy": [
+    {
+      "title": "My Brilliant Friend",
+      "isbn": "9781787702226",
+      "read": 0
+    }
+  ],
+  "Kosovo": [],
+  "Malta": [],
+  "Montenegro": [],
+  "North Macedonia": [],
+  "Portugal": [
+    {
+      "title": "The Book of Disquiet",
+      "isbn": "9780141183046",
+      "read": 0
+    },
+    {
+      "title": "Blindness",
+      "isbn": "9780547537597",
+      "read": 0
+    }
+  ],
+  "San Marino": [],
+  "Serbia": [],
+  "Slovenia": [],
+  "Spain": [
+    {
+      "title": "Don Quixote",
+      "isbn": "9780099469698",
+      "read": 0
+    }
+  ],
+  "Vatican City": []
+}
