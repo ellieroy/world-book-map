@@ -1,0 +1,93 @@
+{
+  "Antigua and Barbuda": [
+    {
+      "title": "Annie John",
+      "isbn": "9781250322395",
+      "read": 0
+    }
+  ],
+  "Bahamas": [
+    {
+      "title": "An evening in Guanima",
+      "isbn": "9789768140128",
+      "read": 0
+    }
+  ],
+  "Barbados": [
+    {
+      "title": "Washington Black",
+      "isbn": "9780525521426",
+      "read": 0
+    }
+  ],
+  "Cuba": [
+    {
+      "title": "Dirty Havana Trilogy",
+      "isbn": "9780060006891",
+      "read": 0
+    }
+  ],
+  "Dominica": [
+    {
+      "title": "Wide Sargasso Sea",
+      "isbn": "9780141185422",
+      "read": 0
+    }
+  ],
+  "Dominican Republic": [
+    {
+      "title": "In the Time of the Butterflies",
+      "isbn": "9781616200992",
+      "read": 0
+    }
+  ],
+  "Grenada": [
+    {
+      "title": "The Bone Readers",
+      "isbn": "9780751574470",
+      "read": 0
+    }
+  ],
+  "Haiti": [
+    {
+      "title": "Breath, Eyes, Memory",
+      "isbn": "9781569477960",
+      "read": 0
+    }
+  ],
+  "Jamaica": [
+    {
+      "title": "A Brief History of Seven Killings",
+      "isbn": "9781594486005",
+      "read": 0
+    }
+  ],
+  "Saint Kitts and Nevis": [
+    {
+      "title": "Caribbean Chemistry",
+      "isbn": "9781908446107",
+      "read": 0
+    }
+  ],
+  "Saint Lucia": [
+    {
+      "title": "Omeros",
+      "isbn": "9780374523503",
+      "read": 0
+    }
+  ],
+  "Saint Vincent and the Grenadines": [
+    {
+      "title": "Windward Family: An atlas of love, loss and belonging",
+      "isbn": "9781800199590",
+      "read": 0
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "title": "When We Were Birds",
+      "isbn": "9780385547260",
+      "read": 0
+    }
+  ]
+}

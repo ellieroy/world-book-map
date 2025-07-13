@@ -1,0 +1,58 @@
+{
+  "Armenia": [],
+  "Azerbaijan": [],
+  "Bahrain": [],
+  "Cyprus": [
+    {
+      "title": "The Island of Missing Trees",
+      "isbn": "9781635579796",
+      "read": 2025
+    },
+    {
+      "title": "The Silent Patient",
+      "isbn": "9781250755605",
+      "read": 2021
+    }
+  ],
+  "Georgia": [],
+  "Iraq": [],
+  "Israel": [],
+  "Jordan": [],
+  "Kuwait": [],
+  "Lebanon": [],
+  "Oman": [],
+  "Palestine": [
+    {
+      "title": "Against the Loveless World",
+      "isbn": "9781982137038",
+      "read": 2025
+    },
+    {
+      "title": "Minor Detail",
+      "isbn": "9781922268693",
+      "read": 0
+    },
+    {
+      "title": "Salt Houses",
+      "isbn": "9781473538191",
+      "read": 0
+    }
+  ],
+  "Qatar": [],
+  "Saudi Arabia": [],
+  "Syria": [],
+  "Turkey": [
+    {
+      "title": "Madonna in a Fur Coat",
+      "isbn": "9780141981277",
+      "read": 0
+    },
+    {
+      "title": "My Name Is Red",
+      "isbn": "9780571268382",
+      "read": 0
+    }
+  ],
+  "United Arab Emirates": [],
+  "Yemen": []
+}

@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# VS code
+.vscode/
+
+# Other
+TODO.md
+data/geometries/gadm/
+data/geometries/gadm_world.geojson
