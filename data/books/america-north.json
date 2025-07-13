@@ -1,0 +1,132 @@
+{
+  "Canada": [
+    {
+      "title": "The Handmaid's Tale",
+      "isbn": "9780547345666",
+      "read": 2020
+    },
+    {
+      "title": "Station Eleven",
+      "isbn": "9780385353304",
+      "read": 2021
+    },
+    {
+      "title": "Life of Pi",
+      "isbn": "9780151008117",
+      "read": 2022
+    }
+  ],
+  "USA Midwest": [
+    {
+      "title": "Dark Matter",
+      "isbn": "9781101904244",
+      "read": 2024
+    },
+    {
+      "title": "Beloved",
+      "isbn": "9780394535975",
+      "read": 2025
+    }
+  ],
+  "USA Northeast": [
+    {
+      "title": "Severance",
+      "isbn": "9780374261597",
+      "read": 2024
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "isbn": "9780241988794",
+      "read": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "isbn": "9780241341469",
+      "read": null
+    },
+    {
+      "title": "A Little Life",
+      "isbn": "9780385539258",
+      "read": 2024
+    },
+    {
+      "title": "American Psycho",
+      "isbn": "9780679735779",
+      "read": null
+    },
+    {
+      "title": "The Goldfinch",
+      "isbn": "9780316248679",
+      "read": null
+    },
+    {
+      "title": "The Secret History",
+      "isbn": "9781400031702",
+      "read": 2023
+    }
+  ],
+  "USA South": [
+    {
+      "title": "To Kill a Mockingbird",
+      "isbn": "9780062368683",
+      "read": null
+    },
+    {
+      "title": "The Color Purple",
+      "isbn": "9780143135692",
+      "read": 2023
+    },
+    {
+      "title": "The Help",
+      "isbn": "9780399155345",
+      "read": null
+    },
+    {
+      "title": "The Trees",
+      "isbn": "9781035036622",
+      "read": 2023
+    }
+  ],
+  "USA West": [
+    {
+      "title": "Of Mice and Men",
+      "isbn": "9780142000670",
+      "read": null
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "isbn": "9780670016907",
+      "read": null
+    },
+    {
+      "title": "Cannery Row",
+      "isbn": "9780142000687",
+      "read": 2022
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "isbn": "9781501139246",
+      "read": 2024
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "isbn": "9780345404473",
+      "read": null
+    },
+    {
+      "title": "The Vanishing Half",
+      "isbn": "9780525536963",
+      "read": 2024
+    },
+    {
+      "title": "The Circle",
+      "isbn": "9780385351409",
+      "read": 2022
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "isbn": "9780670023233",
+      "read": null
+    }
+  ]
+}
