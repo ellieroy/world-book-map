@@ -16,17 +16,78 @@
       "read": 2022
     }
   ],
-  "Alabama": [
+  "USA Midwest": [
+    {
+      "title": "Dark Matter",
+      "isbn": "9781101904244",
+      "read": 2024
+    },
+    {
+      "title": "Beloved",
+      "isbn": "9780394535975",
+      "read": 2025
+    }
+  ],
+  "USA Northeast": [
+    {
+      "title": "Severance",
+      "isbn": "9780374261597",
+      "read": 2024
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "isbn": "9780241988794",
+      "read": null
+    },
+    {
+      "title": "The Great Gatsby",
+      "isbn": "9780241341469",
+      "read": null
+    },
+    {
+      "title": "A Little Life",
+      "isbn": "9780385539258",
+      "read": 2024
+    },
+    {
+      "title": "American Psycho",
+      "isbn": "9780679735779",
+      "read": null
+    },
+    {
+      "title": "The Goldfinch",
+      "isbn": "9780316248679",
+      "read": null
+    },
+    {
+      "title": "The Secret History",
+      "isbn": "9781400031702",
+      "read": 2023
+    }
+  ],
+  "USA South": [
     {
       "title": "To Kill a Mockingbird",
       "isbn": "9780062368683",
       "read": null
+    },
+    {
+      "title": "The Color Purple",
+      "isbn": "9780143135692",
+      "read": 2023
+    },
+    {
+      "title": "The Help",
+      "isbn": "9780399155345",
+      "read": null
+    },
+    {
+      "title": "The Trees",
+      "isbn": "9781035036622",
+      "read": 2023
     }
   ],
-  "Alaska": [],
-  "Arizona": [],
-  "Arkansas": [],
-  "California": [
+  "USA West": [
     {
       "title": "Of Mice and Men",
       "isbn": "9780142000670",
@@ -61,129 +122,11 @@
       "title": "The Circle",
       "isbn": "9780385351409",
       "read": 2022
-    }
-  ],
-  "Colorado": [],
-  "Connecticut": [],
-  "Delaware": [],
-  "Florida": [],
-  "Georgia": [
-    {
-      "title": "The Color Purple",
-      "isbn": "9780143135692",
-      "read": 2023
-    }
-  ],
-  "Hawaii": [],
-  "Idaho": [],
-  "Illinois": [
-    {
-      "title": "Dark Matter",
-      "isbn": "9781101904244",
-      "read": 2024
-    }
-  ],
-  "Indiana": [],
-  "Iowa": [],
-  "Kansas": [],
-  "Kentucky": [],
-  "Louisiana": [],
-  "Maine": [],
-  "Maryland": [],
-  "Massachusetts": [],
-  "Michigan": [],
-  "Minnesota": [],
-  "Mississippi": [
-    {
-      "title": "The Help",
-      "isbn": "9780399155345",
-      "read": null
     },
-    {
-      "title": "The Trees",
-      "isbn": "9781035036622",
-      "read": 2023
-    }
-  ],
-  "Missouri": [],
-  "Montana": [],
-  "Nebraska": [],
-  "Nevada": [],
-  "New Hampshire": [],
-  "New Jersey": [],
-  "New Mexico": [],
-  "New York": [
-    {
-      "title": "Severance",
-      "isbn": "9780374261597",
-      "read": 2024
-    },
-    {
-      "title": "The Catcher in the Rye",
-      "isbn": "9780241988794",
-      "read": null
-    },
-    {
-      "title": "The Great Gatsby",
-      "isbn": "9780241341469",
-      "read": null
-    },
-    {
-      "title": "A Little Life",
-      "isbn": "9780385539258",
-      "read": 2024
-    },
-    {
-      "title": "American Psycho",
-      "isbn": "9780679735779",
-      "read": null
-    },
-    {
-      "title": "The Goldfinch",
-      "isbn": "9780316248679",
-      "read": null
-    }
-  ],
-  "North Carolina": [],
-  "North Dakota": [],
-  "Ohio": [
-    {
-      "title": "Beloved",
-      "isbn": "9780394535975",
-      "read": 2025
-    }
-  ],
-  "Oklahoma": [],
-  "Oregon": [
     {
       "title": "One Flew Over the Cuckoo's Nest",
       "isbn": "9780670023233",
       "read": null
     }
-  ],
-  "Pennsylvania": [],
-  "Rhode Island": [],
-  "South Carolina": [],
-  "South Dakota": [],
-  "Tennessee": [],
-  "Texas": [],
-  "Utah": [],
-  "Vermont": [
-    {
-      "title": "The Secret History",
-      "isbn": "9781400031702",
-      "read": 2023
-    }
-  ],
-  "Virginia": [],
-  "Washington": [],
-  "West Virginia": [],
-  "Wisconsin": [],
-  "Wyoming": [],
-  "Washington DC": [],
-  "Puerto Rico": [],
-  "US Virgin Islands": [],
-  "American Samoa": [],
-  "Guam": [],
-  "Northern Mariana Islands": []
+  ]
 }
