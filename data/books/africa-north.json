@@ -9,7 +9,13 @@
   ],
   "Libya": [],
   "Morocco": [],
-  "Sudan": [],
+  "Sudan": [
+    {
+      "title": "Season of Migration to the North",
+      "isbn": "9781590173022",
+      "read": 0
+    }
+  ],
   "Tunisia": [],
   "Western Sahara": []
 }
