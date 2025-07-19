@@ -11,11 +11,6 @@
       "read": null
     },
     {
-      "title": "The Picture of Dorian Gray",
-      "isbn": "9785000641460",
-      "read": null
-    },
-    {
       "title": "The Time Machine",
       "isbn": "9780486284729",
       "read": 2021
@@ -209,9 +204,19 @@
       "read": 2024
     },
     {
+      "title": "The Picture of Dorian Gray",
+      "isbn": "9785000641460",
+      "read": null
+    },
+    {
       "title": "Normal People",
       "isbn": "9780593168202",
       "read": 2020
+    },
+    {
+      "title": "The Boy in the Striped Pyjamas",
+      "isbn": "9780099487821",
+      "read": 2023
     }
   ]
 }
