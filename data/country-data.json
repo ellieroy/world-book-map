@@ -1,0 +1,2642 @@
+{
+  "Afghanistan": {
+    "code": "AFG",
+    "region": "asia-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Kite Runner",
+        "isbn": "9781526634054",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Earth and Ashes",
+        "isbn": "9781448104376",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Albania": {
+    "code": "ALB",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Broken April",
+        "isbn": "9781446414170",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Algeria": {
+    "code": "DZA",
+    "region": "africa-north",
+    "notes": "",
+    "books": []
+  },
+  "Andorra": {
+    "code": "AND",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Angola": {
+    "code": "AGO",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Antigua and Barbuda": {
+    "code": "ATG",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Annie John",
+        "isbn": "9781250322395",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Argentina": {
+    "code": "ARG",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Fictions",
+        "isbn": "9780670849703",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Tunnel",
+        "isbn": "9780141194547",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Elena Knows",
+        "isbn": "9781999368494",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Armenia": {
+    "code": "ARM",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Australia": {
+    "code": "AUS",
+    "region": "oceania",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Book Thief",
+        "isbn": "9780307433848",
+        "read": 2021,
+        "notes": ""
+      }
+    ]
+  },
+  "Austria": {
+    "code": "AUT",
+    "region": "europe-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "Man's Search for Meaning",
+        "isbn": "9781846042843",
+        "read": 2025,
+        "notes": ""
+      }
+    ]
+  },
+  "Azerbaijan": {
+    "code": "AZE",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Bahamas": {
+    "code": "BHS",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "An evening in Guanima",
+        "isbn": "9789768140128",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Bahrain": {
+    "code": "BHR",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Bangladesh": {
+    "code": "BGD",
+    "region": "asia-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "A Golden Age",
+        "isbn": "9780857862754",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Barbados": {
+    "code": "BRB",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Washington Black",
+        "isbn": "9780525521426",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Belarus": {
+    "code": "BLR",
+    "region": "europe-east",
+    "notes": "",
+    "books": []
+  },
+  "Belgium": {
+    "code": "BEL",
+    "region": "europe-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "I Who Have Never Known Men",
+        "isbn": "9781473570801",
+        "read": 2025,
+        "notes": ""
+      },
+      {
+        "title": "The Angel Maker",
+        "isbn": "9780143113096",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Belize": {
+    "code": "BLZ",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "Beka Lamb",
+        "isbn": "9780435988449",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Benin": {
+    "code": "BEN",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Bhutan": {
+    "code": "BTN",
+    "region": "asia-south",
+    "notes": "",
+    "books": []
+  },
+  "Bolivia": {
+    "code": "BOL",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Fresh Dirt From the Grave",
+        "isbn": "9781913867522",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "code": "BIH",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Catch the Rabbit",
+        "isbn": "9781529039634",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "How the Soldier Repairs the Gramophone",
+        "isbn": "9781555848798",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Black Butterflies",
+        "isbn": "9780715654613",
+        "read": 2025,
+        "notes": "Written by a British author, but her mother is from Bosnia"
+      }
+    ]
+  },
+  "Botswana": {
+    "code": "BWA",
+    "region": "africa-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "When Rain Clouds Gather",
+        "isbn": "9781478611677",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Brazil": {
+    "code": "BRA",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Dom Casmurro",
+        "isbn": "9780374523039",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Barren Lives",
+        "isbn": "9780292786011",
+        "read": 0,
+        "notes": "Recommended by Lydia"
+      },
+      {
+        "title": "Hour Of The Star",
+        "isbn": "9780811219495",
+        "read": 0,
+        "notes": "Recommended by Lydia"
+      }
+    ]
+  },
+  "Brunei": {
+    "code": "BRN",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Bulgaria": {
+    "code": "BGR",
+    "region": "europe-east",
+    "notes": "",
+    "books": []
+  },
+  "Burkina Faso": {
+    "code": "BFA",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Burundi": {
+    "code": "BDI",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Cambodia": {
+    "code": "KHM",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Cameroon": {
+    "code": "CMR",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Canada": {
+    "code": "CAN",
+    "region": "america-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Handmaid's Tale",
+        "isbn": "9780547345666",
+        "read": 2020,
+        "notes": ""
+      },
+      {
+        "title": "Station Eleven",
+        "isbn": "9780385353304",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Life of Pi",
+        "isbn": "9780151008117",
+        "read": 2022,
+        "notes": ""
+      }
+    ]
+  },
+  "Cape Verde": {
+    "code": "CPV",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Central African Republic": {
+    "code": "CAF",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Chad": {
+    "code": "TCD",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Chile": {
+    "code": "CHL",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The House of the Spirits",
+        "isbn": "9781501117015",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Violeta",
+        "isbn": "9780593496206",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "China": {
+    "code": "CHN",
+    "region": "asia-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Three-Body Problem",
+        "isbn": "9781466853447",
+        "read": 2025,
+        "notes": ""
+      },
+      {
+        "title": "Wild Swans: Three Daughters of China",
+        "isbn": "9780743246989",
+        "read": 2022,
+        "notes": ""
+      }
+    ]
+  },
+  "Colombia": {
+    "code": "COL",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "One Hundred Years of Solitude",
+        "isbn": "9780241968598",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Retrospective",
+        "isbn": "9780593539613",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Comoros": {
+    "code": "COM",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Congo": {
+    "code": "COG",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Costa Rica": {
+    "code": "CRI",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "Where There Was Fire",
+        "isbn": "9781250817389",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Côte d'Ivoire": {
+    "code": "CIV",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Croatia": {
+    "code": "HRV",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Baba Yaga Laid an Egg",
+        "isbn": "9781847676085",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Girl at War",
+        "isbn": "9780812996340",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Cuba": {
+    "code": "CUB",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Dirty Havana Trilogy",
+        "isbn": "9780060006891",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Cyprus": {
+    "code": "CYP",
+    "region": "asia-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Island of Missing Trees",
+        "isbn": "9781635579796",
+        "read": 2025,
+        "notes": ""
+      },
+      {
+        "title": "The Silent Patient",
+        "isbn": "9781250755605",
+        "read": 2021,
+        "notes": ""
+      }
+    ]
+  },
+  "Czech Republic": {
+    "code": "CZE",
+    "region": "europe-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Unbearable Lightness of Being",
+        "isbn": "9780571367641",
+        "read": 2021,
+        "notes": ""
+      }
+    ]
+  },
+  "Denmark": {
+    "code": "DNK",
+    "region": "europe-north",
+    "notes": "",
+    "books": []
+  },
+  "Democratic Republic of the Congo": {
+    "code": "COD",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Djibouti": {
+    "code": "DJI",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Dominica": {
+    "code": "DMA",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Wide Sargasso Sea",
+        "isbn": "9780141185422",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Dominican Republic": {
+    "code": "DOM",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "In the Time of the Butterflies",
+        "isbn": "9781616200992",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Ecuador": {
+    "code": "ECU",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Queen of Water",
+        "isbn": "9780385738972",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Cockfight",
+        "isbn": "9781936932832",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Egypt": {
+    "code": "EGY",
+    "region": "africa-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "Woman at Point Zero",
+        "isbn": "9780862321109",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "El Salvador": {
+    "code": "SLV",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "Solito",
+        "isbn": "9780861544738",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Equatorial Guinea": {
+    "code": "GNQ",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Eritrea": {
+    "code": "ERI",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Estonia": {
+    "code": "EST",
+    "region": "europe-north",
+    "notes": "",
+    "books": []
+  },
+  "Eswatini": {
+    "code": "SWZ",
+    "region": "africa-south",
+    "notes": "",
+    "books": []
+  },
+  "Ethiopia": {
+    "code": "ETH",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Fiji": {
+    "code": "FJI",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Finland": {
+    "code": "FIN",
+    "region": "europe-north",
+    "notes": "",
+    "books": []
+  },
+  "France": {
+    "code": "FRA",
+    "region": "europe-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "At Night All Blood is Black",
+        "isbn": "9780374720476",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Plague",
+        "isbn": "9780141185132",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "French Guiana": {
+    "code": "GUF",
+    "region": "america-south",
+    "notes": "",
+    "books": []
+  },
+  "Gabon": {
+    "code": "GAB",
+    "region": "africa-central",
+    "notes": "",
+    "books": []
+  },
+  "Gambia": {
+    "code": "GMB",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Georgia": {
+    "code": "GEO",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Germany": {
+    "code": "DEU",
+    "region": "europe-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "Alone in Berlin",
+        "isbn": "9780141189383",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Little Man, What Now?",
+        "isbn": "9781933633640",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Arch of Triumph: A Novel of a Man Without a Country",
+        "isbn": "9780449912454",
+        "read": 1,
+        "notes": ""
+      }
+    ]
+  },
+  "Ghana": {
+    "code": "GHA",
+    "region": "africa-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "Homegoing",
+        "isbn": "9780241975244",
+        "read": 2024,
+        "notes": ""
+      }
+    ]
+  },
+  "Greece": {
+    "code": "GRC",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Zorba the Greek",
+        "isbn": "9781439144664",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Niki",
+        "isbn": "9781635421972",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Grenada": {
+    "code": "GRD",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Bone Readers",
+        "isbn": "9780751574470",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Guatemala": {
+    "code": "GTM",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "The President",
+        "isbn": "9780881339512",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Guinea": {
+    "code": "GIN",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Guinea-Bissau": {
+    "code": "GNB",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Guyana": {
+    "code": "GUY",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Sly Company of People Who Care",
+        "isbn": "9781447203780",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Haiti": {
+    "code": "HTI",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Breath, Eyes, Memory",
+        "isbn": "9781569477960",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Honduras": {
+    "code": "HND",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "Don't Be Afraid, Gringo",
+        "isbn": "9780935028249",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Hungary": {
+    "code": "HUN",
+    "region": "europe-east",
+    "notes": "",
+    "books": []
+  },
+  "Iceland": {
+    "code": "ISL",
+    "region": "europe-north",
+    "notes": "",
+    "books": []
+  },
+  "India": {
+    "code": "IND",
+    "region": "asia-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The God of Small Things",
+        "isbn": "9780812979657",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Guide",
+        "isbn": "9780143039648",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Indonesia": {
+    "code": "IDN",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Iran": {
+    "code": "IRN",
+    "region": "asia-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Reading Lolita in Tehran",
+        "isbn": "9781588360793",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Persepolis",
+        "isbn": "9780375714832",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Man of My Time",
+        "isbn": "9780374721879",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "My Uncle Napoleon",
+        "isbn": "9780812974430",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Neighbors",
+        "isbn": "9780292749054",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Disoriental",
+        "isbn": "9781609454524",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Iraq": {
+    "code": "IRQ",
+    "region": "asia-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Last Pomegranate Tree",
+        "isbn": "9781738555284",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Ireland": {
+    "code": "IRL",
+    "region": "europe-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "Foster",
+        "isbn": "9780571255665",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "Small Things Like These",
+        "isbn": "9780571368716",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "So Late in the Day",
+        "isbn": "9780571382026",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "isbn": "9785000641460",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Normal People",
+        "isbn": "9780593168202",
+        "read": 2020,
+        "notes": ""
+      },
+      {
+        "title": "The Boy in the Striped Pyjamas",
+        "isbn": "9780099487821",
+        "read": 2023,
+        "notes": ""
+      }
+    ]
+  },
+  "Israel": {
+    "code": "ISR",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Italy": {
+    "code": "ITA",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "My Brilliant Friend",
+        "isbn": "9781787702226",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Name of the Rose",
+        "isbn": "9781448137749",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Invisible Cities",
+        "isbn": "9781446414279",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Jamaica": {
+    "code": "JAM",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "A Brief History of Seven Killings",
+        "isbn": "9781594486005",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Japan": {
+    "code": "JPN",
+    "region": "asia-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Men Without Women",
+        "isbn": "9780451494634",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Sputnik Sweetheart",
+        "isbn": "9780375413469",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "After the Quake",
+        "isbn": "9780307424648",
+        "read": 2020,
+        "notes": ""
+      },
+      {
+        "title": "Dance Dance Dance",
+        "isbn": "9781448103676",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Hard-Boiled Wonderland and the End of the World",
+        "isbn": "9781448103683",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "The Wind-Up Bird Chronicle",
+        "isbn": "9780679775430",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Norwegian Wood",
+        "isbn": "9781448103706",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Kafka on the Shore",
+        "isbn": "9781400079278",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "A Wild Sheep Chase",
+        "isbn": "9781448103522",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Before the Coffee Gets Cold",
+        "isbn": "9781488077210",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Heaven",
+        "isbn": "9781609456306",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "Ms Ice Sandwich",
+        "isbn": "9781782273318",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "Convenience Store Woman",
+        "isbn": "9781846276859",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "Kitchen",
+        "isbn": "9780571393299",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "The Travelling Cat Chronicles",
+        "isbn": "9781473541573",
+        "read": 2022,
+        "notes": ""
+      },
+      {
+        "title": "The Housekeeper and the Professor",
+        "isbn": "9781250375971",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "The Sailor Who Fell from Grace with the Sea",
+        "isbn": "9780679750154",
+        "read": 2020,
+        "notes": ""
+      },
+      {
+        "title": "Out",
+        "isbn": "9781473513631",
+        "read": 2022,
+        "notes": ""
+      },
+      {
+        "title": "The Devotion of Suspect X",
+        "isbn": "9780748126187",
+        "read": 2025,
+        "notes": ""
+      }
+    ]
+  },
+  "Jordan": {
+    "code": "JOR",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Kazakhstan": {
+    "code": "KAZ",
+    "region": "asia-central",
+    "notes": "",
+    "books": []
+  },
+  "Kenya": {
+    "code": "KEN",
+    "region": "africa-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Lucky Girl",
+        "isbn": "9780593133903",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Things They Lost",
+        "isbn": "9781982102579",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Petals of Blood",
+        "isbn": "9781473549883",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Kiribati": {
+    "code": "KIR",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Kosovo": {
+    "code": "XKO",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Kuwait": {
+    "code": "KWT",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Kyrgyzstan": {
+    "code": "KGZ",
+    "region": "asia-central",
+    "notes": "",
+    "books": []
+  },
+  "Laos": {
+    "code": "LAO",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Latvia": {
+    "code": "LVA",
+    "region": "europe-north",
+    "notes": "",
+    "books": []
+  },
+  "Lebanon": {
+    "code": "LBN",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Lesotho": {
+    "code": "LSO",
+    "region": "africa-south",
+    "notes": "",
+    "books": []
+  },
+  "Liberia": {
+    "code": "LBR",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Libya": {
+    "code": "LBY",
+    "region": "africa-north",
+    "notes": "",
+    "books": []
+  },
+  "Liechtenstein": {
+    "code": "LIE",
+    "region": "europe-west",
+    "notes": "",
+    "books": []
+  },
+  "Lithuania": {
+    "code": "LTU",
+    "region": "europe-north",
+    "notes": "",
+    "books": []
+  },
+  "Luxembourg": {
+    "code": "LUX",
+    "region": "europe-west",
+    "notes": "",
+    "books": []
+  },
+  "Madagascar": {
+    "code": "MDG",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Malawi": {
+    "code": "MWI",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Malaysia": {
+    "code": "MYS",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Maldives": {
+    "code": "MDV",
+    "region": "asia-south",
+    "notes": "",
+    "books": []
+  },
+  "Mali": {
+    "code": "MLI",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Malta": {
+    "code": "MLT",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "A Death in Malta",
+        "isbn": "9780593543757",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Marshall Islands": {
+    "code": "MHL",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Mauritania": {
+    "code": "MRT",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Mauritius": {
+    "code": "MUS",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Mexico": {
+    "code": "MEX",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "Hurricane Season",
+        "isbn": "9781925774771",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Battles in the Desert",
+        "isbn": "9780811225496",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Micronesia": {
+    "code": "FSM",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Moldova": {
+    "code": "MDA",
+    "region": "europe-east",
+    "notes": "",
+    "books": []
+  },
+  "Monaco": {
+    "code": "MCO",
+    "region": "europe-west",
+    "notes": "",
+    "books": []
+  },
+  "Mongolia": {
+    "code": "MNG",
+    "region": "asia-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Green Eyed Lama",
+        "isbn": "9781790364107",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Blue Sky",
+        "isbn": "9781571317391",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Montenegro": {
+    "code": "MNE",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Morocco": {
+    "code": "MAR",
+    "region": "africa-north",
+    "notes": "",
+    "books": []
+  },
+  "Mozambique": {
+    "code": "MOZ",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Myanmar": {
+    "code": "MMR",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Smile As They Bow",
+        "isbn": "9781401303372",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "From the Land of Green Ghosts",
+        "isbn": "9780060505233",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Namibia": {
+    "code": "NAM",
+    "region": "africa-south",
+    "notes": "",
+    "books": []
+  },
+  "Nauru": {
+    "code": "NRU",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Nepal": {
+    "code": "NPL",
+    "region": "asia-south",
+    "notes": "",
+    "books": []
+  },
+  "Netherlands": {
+    "code": "NLD",
+    "region": "europe-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Diary of a Young Girl",
+        "isbn": "9780307807533",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Fuck die studieschuld",
+        "isbn": "9789047016465",
+        "read": 2024,
+        "notes": ""
+      }
+    ]
+  },
+  "New Zealand": {
+    "code": "NZL",
+    "region": "oceania",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Whale Rider",
+        "isbn": "9781742287089",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Bone People",
+        "isbn": "9781776954131",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Nicaragua": {
+    "code": "NIC",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Country Under My Skin",
+        "isbn": "9781400032167",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Niger": {
+    "code": "NER",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Nigeria": {
+    "code": "NGA",
+    "region": "africa-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "Half of a Yellow Sun",
+        "isbn": "9781400095209",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "Purple Hibiscus",
+        "isbn": "9780007189885",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Americanah",
+        "isbn": "9780307455925",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "North Korea": {
+    "code": "PRK",
+    "region": "asia-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "In Order to Live: A North Korean Girl's Journey to Freedom",
+        "isbn": "9781594206795",
+        "read": 2024,
+        "notes": ""
+      }
+    ]
+  },
+  "North Macedonia": {
+    "code": "MKD",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "I'm Not Going Anywhere",
+        "isbn": "9781628974812",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Norway": {
+    "code": "NOR",
+    "region": "europe-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "Sophie's World",
+        "isbn": "9780297864073",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Oman": {
+    "code": "OMN",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Pakistan": {
+    "code": "PAK",
+    "region": "asia-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Exit West",
+        "isbn": "9780735212183",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Wandering Falcon",
+        "isbn": "9780141969176",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Palau": {
+    "code": "PLW",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Palestine": {
+    "code": "PSE",
+    "region": "asia-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "Against the Loveless World",
+        "isbn": "9781982137038",
+        "read": 2025,
+        "notes": ""
+      },
+      {
+        "title": "Minor Detail",
+        "isbn": "9781922268693",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Salt Houses",
+        "isbn": "9781473538191",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Panama": {
+    "code": "PAN",
+    "region": "america-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Great Divide",
+        "isbn": "9780008608002",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Papua New Guinea": {
+    "code": "PNG",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Paraguay": {
+    "code": "PRY",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "I the Supreme",
+        "isbn": "9781564782472",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Peru": {
+    "code": "PER",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Time of the Hero",
+        "isbn": "9780571271139",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Bad Girl",
+        "isbn": "9780571268160",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Philippines": {
+    "code": "PHL",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Insurrecto",
+        "isbn": "9781616959456",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Poland": {
+    "code": "POL",
+    "region": "europe-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Drive Your Plow Over the Bones of the Dead",
+        "isbn": "9780525541356",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Portugal": {
+    "code": "PRT",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Book of Disquiet",
+        "isbn": "9780141183046",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Blindness",
+        "isbn": "9780547537597",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Qatar": {
+    "code": "QAT",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Romania": {
+    "code": "ROU",
+    "region": "europe-east",
+    "notes": "",
+    "books": []
+  },
+  "Russia": {
+    "code": "RUS",
+    "region": "europe-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Master and Margarita",
+        "isbn": "9780795348396",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "We",
+        "isbn": "9781554814107",
+        "read": 2023,
+        "notes": ""
+      }
+    ]
+  },
+  "Rwanda": {
+    "code": "RWA",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Saint Kitts and Nevis": {
+    "code": "KNA",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Caribbean Chemistry",
+        "isbn": "9781908446107",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Saint Lucia": {
+    "code": "LCA",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Omeros",
+        "isbn": "9780374523503",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "code": "VCT",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "Windward Family: An atlas of love, loss and belonging",
+        "isbn": "9781800199590",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Samoa": {
+    "code": "WSM",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "San Marino": {
+    "code": "SMR",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Sao Tome and Principe": {
+    "code": "STP",
+    "region": "africa-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Shepherd's House",
+        "isbn": "9781777626471",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Saudi Arabia": {
+    "code": "SAU",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Senegal": {
+    "code": "SEN",
+    "region": "africa-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Most Secret Memory of Men",
+        "isbn": "9781529926354",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "So Long a Letter",
+        "isbn": "9780435905552",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Serbia": {
+    "code": "SRB",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Seychelles": {
+    "code": "SYC",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Sierra Leone": {
+    "code": "SLE",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Singapore": {
+    "code": "SGP",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "How We Disappeared",
+        "isbn": "9781786074133",
+        "read": 2025,
+        "notes": ""
+      }
+    ]
+  },
+  "Slovakia": {
+    "code": "SVK",
+    "region": "europe-east",
+    "notes": "",
+    "books": []
+  },
+  "Slovenia": {
+    "code": "SVN",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Solomon Islands": {
+    "code": "SLB",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Somalia": {
+    "code": "SOM",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "South Africa": {
+    "code": "ZAF",
+    "region": "africa-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Born a Crime: Stories From a South African Childhood",
+        "isbn": "9780385689229",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "Disgrace",
+        "isbn": "9780099289524",
+        "read": 2025,
+        "notes": ""
+      }
+    ]
+  },
+  "South Korea": {
+    "code": "KOR",
+    "region": "asia-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Kim Jiyoung, Born 1982",
+        "isbn": "9781471184291",
+        "read": 2022,
+        "notes": ""
+      },
+      {
+        "title": "Miss Kim Knows and Other Stories",
+        "isbn": "9781398522923",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "The Vegetarian",
+        "isbn": "9780553448184",
+        "read": 2025,
+        "notes": ""
+      }
+    ]
+  },
+  "South Sudan": {
+    "code": "SSD",
+    "region": "africa-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "What is the What",
+        "isbn": "9780141917412",
+        "read": 0,
+        "notes": "Written by Dave Eggers about the life of Valentino Achak Deng, a Sudanese child refugee"
+      },
+      {
+        "title": "They Poured Fire on Us from the Sky",
+        "isbn": "9781541706330",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Spain": {
+    "code": "ESP",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Nada",
+        "isbn": "9781784876210",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Sri Lanka": {
+    "code": "LKA",
+    "region": "asia-south",
+    "notes": "",
+    "books": []
+  },
+  "Sudan": {
+    "code": "SDN",
+    "region": "africa-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "Season of Migration to the North",
+        "isbn": "9781590173022",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Suriname": {
+    "code": "SUR",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Hoe duur was de suiker?",
+        "isbn": "9789054294528",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Gebroken wit",
+        "isbn": "9789044640199",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Sweden": {
+    "code": "SWE",
+    "region": "europe-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Girl With the Dragon Tattoo",
+        "isbn": "9780307454546",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "A Man Called Ove",
+        "isbn": "9781476738017",
+        "read": 2023,
+        "notes": ""
+      }
+    ]
+  },
+  "Switzerland": {
+    "code": "CHE",
+    "region": "europe-west",
+    "notes": "",
+    "books": []
+  },
+  "Syria": {
+    "code": "SYR",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Taiwan": {
+    "code": "TWN",
+    "region": "asia-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Daughters of Shandong",
+        "isbn": "9780593640548",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Notes of a Crocodile",
+        "isbn": "9781681370774",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Where Every Ghost Has a Name",
+        "isbn": "9781538194065",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Tajikistan": {
+    "code": "TJK",
+    "region": "asia-central",
+    "notes": "",
+    "books": []
+  },
+  "Tanzania": {
+    "code": "TZA",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Thailand": {
+    "code": "THA",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Timor-Leste": {
+    "code": "TLS",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": []
+  },
+  "Togo": {
+    "code": "TGO",
+    "region": "africa-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "An African in Greenland",
+        "isbn": "9780141999425",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Tonga": {
+    "code": "TON",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Trinidad and Tobago": {
+    "code": "TTO",
+    "region": "america-caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "When We Were Birds",
+        "isbn": "9780385547260",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Tunisia": {
+    "code": "TUN",
+    "region": "africa-north",
+    "notes": "",
+    "books": []
+  },
+  "Turkey": {
+    "code": "TUR",
+    "region": "asia-west",
+    "notes": "",
+    "books": [
+      {
+        "title": "Madonna in a Fur Coat",
+        "isbn": "9780141981277",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "My Name Is Red",
+        "isbn": "9780571268382",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Turkmenistan": {
+    "code": "TKM",
+    "region": "asia-central",
+    "notes": "",
+    "books": []
+  },
+  "Tuvalu": {
+    "code": "TUV",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Uganda": {
+    "code": "UGA",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Ukraine": {
+    "code": "UKR",
+    "region": "europe-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "Grey Bees",
+        "isbn": "9781646051670",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "United Arab Emirates": {
+    "code": "ARE",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "United Kingdom": {
+    "code": "GBR",
+    "region": "europe-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Remains of the Day",
+        "isbn": "9780571249350",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Never Let Me Go",
+        "isbn": "9780307371331",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "The Time Machine",
+        "isbn": "9780486284729",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "isbn": "9781409086048",
+        "read": 2022,
+        "notes": ""
+      },
+      {
+        "title": "To the Lighthouse",
+        "isbn": "9780486849829",
+        "read": 2022,
+        "notes": ""
+      },
+      {
+        "title": "The Thursday Murder Club",
+        "isbn": "9780241988275",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "The Man Who Died Twice",
+        "isbn": "9780241988251",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "The Bullet That Missed",
+        "isbn": "9780593299395",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "The Last Devil to Die",
+        "isbn": "9780241992418",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "The Murder of Roger Ackroyd",
+        "isbn": "9780593466360",
+        "read": 2022,
+        "notes": ""
+      },
+      {
+        "title": "Crooked House",
+        "isbn": "9780062006615",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "isbn": "9780307498465",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "Hamnet",
+        "isbn": "9781472223814",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "A Christmas Carol",
+        "isbn": "9781504061643",
+        "read": 2024,
+        "notes": ""
+      },
+      {
+        "title": "David Copperfield",
+        "isbn": "9780679783411",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Atonement",
+        "isbn": "9780385721790",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Wuthering Heights",
+        "isbn": "9780141199085",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Pride and Prejudice",
+        "isbn": "9780141199078",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "The Girl on the Train",
+        "isbn": "9780857522320",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "I Capture the Castle",
+        "isbn": "9780312181109",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Animal Farm",
+        "isbn": "9789181081527",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "1984",
+        "isbn": "9780547249643",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "The Spy Who Came In from the Cold",
+        "isbn": "9780143124757",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Chocky",
+        "isbn": "9781590178539",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "The Midwich Cuckoos",
+        "isbn": "9780141920856",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "The Day of the Triffids",
+        "isbn": "9780593450093",
+        "read": 2020,
+        "notes": ""
+      },
+      {
+        "title": "The Guest List",
+        "isbn": "9780062868954",
+        "read": 2023,
+        "notes": ""
+      },
+      {
+        "title": "The Midnight Library",
+        "isbn": "9780525559474",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "High-Rise",
+        "isbn": "9780871404022",
+        "read": 2021,
+        "notes": ""
+      },
+      {
+        "title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+        "isbn": "9780553213454",
+        "read": 1,
+        "notes": ""
+      },
+      {
+        "title": "Open Water",
+        "isbn": "9780241989470",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Trainspotting",
+        "isbn": "9781407019994",
+        "read": 2021,
+        "notes": "Scotland"
+      },
+      {
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "isbn": "9780735242098",
+        "read": 2022,
+        "notes": "Scotland"
+      },
+      {
+        "title": "Shuggie Bain",
+        "isbn": "9781760980276",
+        "read": 0,
+        "notes": "Scotland"
+      },
+      {
+        "title": "How Green Was My Valley",
+        "isbn": "9780141911724",
+        "read": 0,
+        "notes": "Wales"
+      },
+      {
+        "title": "Trespasses",
+        "isbn": "9780593540893",
+        "read": 0,
+        "notes": "Northern Ireland"
+      }
+    ]
+  },
+  "United States": {
+    "code": "USA",
+    "region": "america-north",
+    "notes": "",
+    "books": [
+      {
+        "title": "Dark Matter",
+        "isbn": "9781101904244",
+        "read": 2024,
+        "notes": "Midwest"
+      },
+      {
+        "title": "Beloved",
+        "isbn": "9780394535975",
+        "read": 2025,
+        "notes": "Midwest"
+      },
+      {
+        "title": "Severance",
+        "isbn": "9780374261597",
+        "read": 2024,
+        "notes": "Northeast"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "isbn": "9780241988794",
+        "read": 1,
+        "notes": "Northeast"
+      },
+      {
+        "title": "The Great Gatsby",
+        "isbn": "9780241341469",
+        "read": 1,
+        "notes": "Northeast"
+      },
+      {
+        "title": "A Little Life",
+        "isbn": "9780385539258",
+        "read": 2024,
+        "notes": "Northeast"
+      },
+      {
+        "title": "American Psycho",
+        "isbn": "9780679735779",
+        "read": 1,
+        "notes": "Northeast"
+      },
+      {
+        "title": "The Goldfinch",
+        "isbn": "9780316248679",
+        "read": 1,
+        "notes": "Northeast"
+      },
+      {
+        "title": "The Secret History",
+        "isbn": "9781400031702",
+        "read": 2023,
+        "notes": "Northeast"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "isbn": "9780062368683",
+        "read": 1,
+        "notes": "South"
+      },
+      {
+        "title": "The Color Purple",
+        "isbn": "9780143135692",
+        "read": 2023,
+        "notes": "South"
+      },
+      {
+        "title": "The Help",
+        "isbn": "9780399155345",
+        "read": 1,
+        "notes": "South"
+      },
+      {
+        "title": "The Trees",
+        "isbn": "9781035036622",
+        "read": 2023,
+        "notes": "South"
+      },
+      {
+        "title": "Of Mice and Men",
+        "isbn": "9780142000670",
+        "read": 1,
+        "notes": "West"
+      },
+      {
+        "title": "The Grapes of Wrath",
+        "isbn": "9780670016907",
+        "read": 1,
+        "notes": "West"
+      },
+      {
+        "title": "Cannery Row",
+        "isbn": "9780142000687",
+        "read": 2022,
+        "notes": "West"
+      },
+      {
+        "title": "The Seven Husbands of Evelyn Hugo",
+        "isbn": "9781501139246",
+        "read": 2024,
+        "notes": "West"
+      },
+      {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "isbn": "9780345404473",
+        "read": 1,
+        "notes": "West"
+      },
+      {
+        "title": "The Vanishing Half",
+        "isbn": "9780525536963",
+        "read": 2024,
+        "notes": "West"
+      },
+      {
+        "title": "The Circle",
+        "isbn": "9780385351409",
+        "read": 2022,
+        "notes": "West"
+      },
+      {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "isbn": "9780670023233",
+        "read": 1,
+        "notes": "West"
+      }
+    ]
+  },
+  "Uruguay": {
+    "code": "URY",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "Cantoras",
+        "isbn": "9780525521693",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "The Rooftop",
+        "isbn": "9781913867058",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Uzbekistan": {
+    "code": "UZB",
+    "region": "asia-central",
+    "notes": "",
+    "books": []
+  },
+  "Vanuatu": {
+    "code": "VUT",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Vatican City": {
+    "code": "VAT",
+    "region": "europe-south",
+    "notes": "",
+    "books": []
+  },
+  "Venezuela": {
+    "code": "VEN",
+    "region": "america-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "It Would Be Night in Caracas",
+        "isbn": "9780062936899",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Vietnam": {
+    "code": "VNM",
+    "region": "asia-south-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Mountains Sing",
+        "isbn": "9781643750491",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Wandering Souls",
+        "isbn": "9780008528799",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Western Sahara": {
+    "code": "ESH",
+    "region": "africa-north",
+    "notes": "",
+    "books": []
+  },
+  "Yemen": {
+    "code": "YEM",
+    "region": "asia-west",
+    "notes": "",
+    "books": []
+  },
+  "Zambia": {
+    "code": "ZMB",
+    "region": "africa-east",
+    "notes": "",
+    "books": []
+  },
+  "Zimbabwe": {
+    "code": "ZWE",
+    "region": "africa-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "We Need New Names",
+        "isbn": "9780316230834",
+        "read": 0,
+        "notes": ""
+      },
+      {
+        "title": "Nervous Conditions",
+        "isbn": "9780571368136",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Cook Islands": {
+    "code": "COK",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  },
+  "Niue": {
+    "code": "NIU",
+    "region": "oceania",
+    "notes": "",
+    "books": []
+  }
+}
