@@ -1,7 +1,7 @@
 {
   "Afghanistan": {
     "code": "AFG",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
     "books": [
       {
@@ -18,9 +18,35 @@
       }
     ]
   },
+  "Akrotiri and Dhekelia": {
+    "code": "XAD",
+    "region": "",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Åland": {
+    "code": "ALA",
+    "region": "Northern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Albania": {
     "code": "ALB",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -33,25 +59,72 @@
   },
   "Algeria": {
     "code": "DZA",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "American Samoa": {
+    "code": "ASM",
+    "region": "Polynesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Andorra": {
     "code": "AND",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Angola": {
     "code": "AGO",
-    "region": "africa-central",
+    "region": "Middle Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Anguilla": {
+    "code": "AIA",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Antigua and Barbuda": {
     "code": "ATG",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -64,7 +137,7 @@
   },
   "Argentina": {
     "code": "ARG",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -89,13 +162,33 @@
   },
   "Armenia": {
     "code": "ARM",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Aruba": {
+    "code": "ABW",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Australia": {
     "code": "AUS",
-    "region": "oceania",
+    "region": "Australia and New Zealand",
     "notes": "",
     "books": [
       {
@@ -108,7 +201,7 @@
   },
   "Austria": {
     "code": "AUT",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
     "books": [
       {
@@ -121,13 +214,20 @@
   },
   "Azerbaijan": {
     "code": "AZE",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Bahamas": {
     "code": "BHS",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -140,13 +240,20 @@
   },
   "Bahrain": {
     "code": "BHR",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Bangladesh": {
     "code": "BGD",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
     "books": [
       {
@@ -159,7 +266,7 @@
   },
   "Barbados": {
     "code": "BRB",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -172,13 +279,20 @@
   },
   "Belarus": {
     "code": "BLR",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Belgium": {
     "code": "BEL",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
     "books": [
       {
@@ -197,7 +311,7 @@
   },
   "Belize": {
     "code": "BLZ",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -210,19 +324,46 @@
   },
   "Benin": {
     "code": "BEN",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Bermuda": {
+    "code": "BMU",
+    "region": "Northern America",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Bhutan": {
     "code": "BTN",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Bolivia": {
     "code": "BOL",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -233,9 +374,22 @@
       }
     ]
   },
+  "Bonaire, Saint Eustatius and Saba": {
+    "code": "BES",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Bosnia and Herzegovina": {
     "code": "BIH",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -260,7 +414,7 @@
   },
   "Botswana": {
     "code": "BWA",
-    "region": "africa-south",
+    "region": "Southern Africa",
     "notes": "",
     "books": [
       {
@@ -271,9 +425,22 @@
       }
     ]
   },
+  "Bouvet Island": {
+    "code": "BVT",
+    "region": "South America",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Brazil": {
     "code": "BRA",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -296,45 +463,113 @@
       }
     ]
   },
+  "British Indian Ocean Territory": {
+    "code": "IOT",
+    "region": "Eastern Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "British Virgin Islands": {
+    "code": "VGB",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Brunei": {
     "code": "BRN",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Bulgaria": {
     "code": "BGR",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Burkina Faso": {
     "code": "BFA",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Burundi": {
     "code": "BDI",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Cambodia": {
     "code": "KHM",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Cameroon": {
     "code": "CMR",
-    "region": "africa-central",
+    "region": "Middle Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Canada": {
     "code": "CAN",
-    "region": "america-north",
+    "region": "Northern America",
     "notes": "",
     "books": [
       {
@@ -357,27 +592,74 @@
       }
     ]
   },
-  "Cape Verde": {
+  "Cabo Verde": {
     "code": "CPV",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Caspian Sea": {
+    "code": "XCA",
+    "region": "",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Cayman Islands": {
+    "code": "CYM",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Central African Republic": {
     "code": "CAF",
-    "region": "africa-central",
+    "region": "Middle Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Chad": {
     "code": "TCD",
-    "region": "africa-central",
+    "region": "Middle Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Chile": {
     "code": "CHL",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -396,7 +678,7 @@
   },
   "China": {
     "code": "CHN",
-    "region": "asia-east",
+    "region": "Eastern Asia",
     "notes": "",
     "books": [
       {
@@ -413,9 +695,48 @@
       }
     ]
   },
+  "Christmas Island": {
+    "code": "CXR",
+    "region": "Australia and New Zealand",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Clipperton Island": {
+    "code": "XCL",
+    "region": "",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Cocos Islands": {
+    "code": "CCK",
+    "region": "Australia and New Zealand",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Colombia": {
     "code": "COL",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -434,19 +755,33 @@
   },
   "Comoros": {
     "code": "COM",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
-  "Congo": {
-    "code": "COG",
-    "region": "africa-central",
+  "Cook Islands": {
+    "code": "COK",
+    "region": "Polynesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Costa Rica": {
     "code": "CRI",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -457,15 +792,22 @@
       }
     ]
   },
-  "Côte d'Ivoire": {
+  "Côte d’Ivoire": {
     "code": "CIV",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Croatia": {
     "code": "HRV",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -484,7 +826,7 @@
   },
   "Cuba": {
     "code": "CUB",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -495,9 +837,22 @@
       }
     ]
   },
+  "Curaçao": {
+    "code": "CUW",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Cyprus": {
     "code": "CYP",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
     "books": [
       {
@@ -514,40 +869,61 @@
       }
     ]
   },
-  "Czech Republic": {
+  "Czechia": {
     "code": "CZE",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
     "books": [
       {
-        "title": "The Unbearable Lightness of Being",
-        "isbn": "9780571367641",
-        "read": 2021,
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "code": "COD",
+    "region": "Middle Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
         "notes": ""
       }
     ]
   },
   "Denmark": {
     "code": "DNK",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
-    "books": []
-  },
-  "Democratic Republic of the Congo": {
-    "code": "COD",
-    "region": "africa-central",
-    "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Djibouti": {
     "code": "DJI",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Dominica": {
     "code": "DMA",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -560,7 +936,7 @@
   },
   "Dominican Republic": {
     "code": "DOM",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -573,7 +949,7 @@
   },
   "Ecuador": {
     "code": "ECU",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -592,7 +968,7 @@
   },
   "Egypt": {
     "code": "EGY",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
     "books": [
       {
@@ -605,7 +981,7 @@
   },
   "El Salvador": {
     "code": "SLV",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -618,49 +994,111 @@
   },
   "Equatorial Guinea": {
     "code": "GNQ",
-    "region": "africa-central",
+    "region": "Middle Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Eritrea": {
     "code": "ERI",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Estonia": {
     "code": "EST",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
-    "books": []
-  },
-  "Eswatini": {
-    "code": "SWZ",
-    "region": "africa-south",
-    "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Ethiopia": {
     "code": "ETH",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Falkland Islands": {
+    "code": "FLK",
+    "region": "South America",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Faroe Islands": {
+    "code": "FRO",
+    "region": "Northern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Fiji": {
     "code": "FJI",
-    "region": "oceania",
+    "region": "Melanesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Finland": {
     "code": "FIN",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "France": {
     "code": "FRA",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
     "books": [
       {
@@ -679,31 +1117,85 @@
   },
   "French Guiana": {
     "code": "GUF",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "French Polynesia": {
+    "code": "PYF",
+    "region": "Polynesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "French Southern Territories": {
+    "code": "ATF",
+    "region": "Eastern Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Gabon": {
     "code": "GAB",
-    "region": "africa-central",
+    "region": "Middle Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Gambia": {
     "code": "GMB",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Georgia": {
     "code": "GEO",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Germany": {
     "code": "DEU",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
     "books": [
       {
@@ -728,7 +1220,7 @@
   },
   "Ghana": {
     "code": "GHA",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
     "books": [
       {
@@ -739,9 +1231,22 @@
       }
     ]
   },
+  "Gibraltar": {
+    "code": "GIB",
+    "region": "Southern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Greece": {
     "code": "GRC",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -758,9 +1263,22 @@
       }
     ]
   },
+  "Greenland": {
+    "code": "GRL",
+    "region": "Northern America",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Grenada": {
     "code": "GRD",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -771,9 +1289,35 @@
       }
     ]
   },
+  "Guadeloupe": {
+    "code": "GLP",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Guam": {
+    "code": "GUM",
+    "region": "Micronesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Guatemala": {
     "code": "GTM",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -784,21 +1328,48 @@
       }
     ]
   },
+  "Guernsey": {
+    "code": "GGY",
+    "region": "Northern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Guinea": {
     "code": "GIN",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Guinea-Bissau": {
     "code": "GNB",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Guyana": {
     "code": "GUY",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -811,7 +1382,7 @@
   },
   "Haiti": {
     "code": "HTI",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -822,9 +1393,22 @@
       }
     ]
   },
+  "Heard Island and McDonald Islands": {
+    "code": "HMD",
+    "region": "Australia and New Zealand",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Honduras": {
     "code": "HND",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -835,21 +1419,48 @@
       }
     ]
   },
+  "Hong Kong": {
+    "code": "HKG",
+    "region": "Eastern Asia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Hungary": {
     "code": "HUN",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Iceland": {
     "code": "ISL",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "India": {
     "code": "IND",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
     "books": [
       {
@@ -868,13 +1479,20 @@
   },
   "Indonesia": {
     "code": "IDN",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Iran": {
     "code": "IRN",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
     "books": [
       {
@@ -917,7 +1535,7 @@
   },
   "Iraq": {
     "code": "IRQ",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
     "books": [
       {
@@ -930,7 +1548,7 @@
   },
   "Ireland": {
     "code": "IRL",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
     "books": [
       {
@@ -971,15 +1589,35 @@
       }
     ]
   },
+  "Isle of Man": {
+    "code": "IMN",
+    "region": "Northern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Israel": {
     "code": "ISR",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Italy": {
     "code": "ITA",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -1004,7 +1642,7 @@
   },
   "Jamaica": {
     "code": "JAM",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -1017,7 +1655,7 @@
   },
   "Japan": {
     "code": "JPN",
-    "region": "asia-east",
+    "region": "Eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1136,21 +1774,48 @@
       }
     ]
   },
+  "Jersey": {
+    "code": "JEY",
+    "region": "Northern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Jordan": {
     "code": "JOR",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Kazakhstan": {
     "code": "KAZ",
-    "region": "asia-central",
+    "region": "Central Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Kenya": {
     "code": "KEN",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
     "books": [
       {
@@ -1175,115 +1840,267 @@
   },
   "Kiribati": {
     "code": "KIR",
-    "region": "oceania",
+    "region": "Micronesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Kosovo": {
     "code": "XKO",
-    "region": "europe-south",
+    "region": "",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Kuwait": {
     "code": "KWT",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Kyrgyzstan": {
     "code": "KGZ",
-    "region": "asia-central",
+    "region": "Central Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Laos": {
     "code": "LAO",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Latvia": {
     "code": "LVA",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Lebanon": {
     "code": "LBN",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Lesotho": {
     "code": "LSO",
-    "region": "africa-south",
+    "region": "Southern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Liberia": {
     "code": "LBR",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Libya": {
     "code": "LBY",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Liechtenstein": {
     "code": "LIE",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Lithuania": {
     "code": "LTU",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Luxembourg": {
     "code": "LUX",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Macao": {
+    "code": "MAC",
+    "region": "Eastern Asia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Macedonia": {
+    "code": "MKD",
+    "region": "Southern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Madagascar": {
     "code": "MDG",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Malawi": {
     "code": "MWI",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Malaysia": {
     "code": "MYS",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Maldives": {
     "code": "MDV",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Mali": {
     "code": "MLI",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Malta": {
     "code": "MLT",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -1296,25 +2113,72 @@
   },
   "Marshall Islands": {
     "code": "MHL",
-    "region": "oceania",
+    "region": "Micronesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Martinique": {
+    "code": "MTQ",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Mauritania": {
     "code": "MRT",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Mauritius": {
     "code": "MUS",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Mayotte": {
+    "code": "MYT",
+    "region": "Eastern Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Mexico": {
     "code": "MEX",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -1333,25 +2197,46 @@
   },
   "Micronesia": {
     "code": "FSM",
-    "region": "oceania",
+    "region": "Micronesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Moldova": {
     "code": "MDA",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Monaco": {
     "code": "MCO",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Mongolia": {
     "code": "MNG",
-    "region": "asia-east",
+    "region": "Eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1370,25 +2255,59 @@
   },
   "Montenegro": {
     "code": "MNE",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Montserrat": {
+    "code": "MSR",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Morocco": {
     "code": "MAR",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Mozambique": {
     "code": "MOZ",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Myanmar": {
     "code": "MMR",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1407,25 +2326,46 @@
   },
   "Namibia": {
     "code": "NAM",
-    "region": "africa-south",
+    "region": "Southern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Nauru": {
     "code": "NRU",
-    "region": "oceania",
+    "region": "Micronesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Nepal": {
     "code": "NPL",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Netherlands": {
     "code": "NLD",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
     "books": [
       {
@@ -1442,9 +2382,22 @@
       }
     ]
   },
+  "New Caledonia": {
+    "code": "NCL",
+    "region": "Melanesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "New Zealand": {
     "code": "NZL",
-    "region": "oceania",
+    "region": "Australia and New Zealand",
     "notes": "",
     "books": [
       {
@@ -1463,7 +2416,7 @@
   },
   "Nicaragua": {
     "code": "NIC",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -1476,13 +2429,20 @@
   },
   "Niger": {
     "code": "NER",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Nigeria": {
     "code": "NGA",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
     "books": [
       {
@@ -1505,9 +2465,35 @@
       }
     ]
   },
+  "Niue": {
+    "code": "NIU",
+    "region": "Polynesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Norfolk Island": {
+    "code": "NFK",
+    "region": "Australia and New Zealand",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "North Korea": {
     "code": "PRK",
-    "region": "asia-east",
+    "region": "Eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1518,14 +2504,27 @@
       }
     ]
   },
-  "North Macedonia": {
-    "code": "MKD",
-    "region": "europe-south",
+  "Northern Cyprus": {
+    "code": "XNC",
+    "region": "",
     "notes": "",
     "books": [
       {
-        "title": "I'm Not Going Anywhere",
-        "isbn": "9781628974812",
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Northern Mariana Islands": {
+    "code": "MNP",
+    "region": "Micronesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
         "read": 0,
         "notes": ""
       }
@@ -1533,7 +2532,7 @@
   },
   "Norway": {
     "code": "NOR",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
     "books": [
       {
@@ -1546,13 +2545,20 @@
   },
   "Oman": {
     "code": "OMN",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Pakistan": {
     "code": "PAK",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
     "books": [
       {
@@ -1571,13 +2577,20 @@
   },
   "Palau": {
     "code": "PLW",
-    "region": "oceania",
+    "region": "Micronesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Palestine": {
     "code": "PSE",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
     "books": [
       {
@@ -1602,7 +2615,7 @@
   },
   "Panama": {
     "code": "PAN",
-    "region": "america-central",
+    "region": "Central America",
     "notes": "",
     "books": [
       {
@@ -1615,13 +2628,20 @@
   },
   "Papua New Guinea": {
     "code": "PNG",
-    "region": "oceania",
+    "region": "Melanesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Paraguay": {
     "code": "PRY",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -1634,7 +2654,7 @@
   },
   "Peru": {
     "code": "PER",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -1653,7 +2673,7 @@
   },
   "Philippines": {
     "code": "PHL",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1664,9 +2684,22 @@
       }
     ]
   },
+  "Pitcairn Islands": {
+    "code": "PCN",
+    "region": "Polynesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Poland": {
     "code": "POL",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
     "books": [
       {
@@ -1679,7 +2712,7 @@
   },
   "Portugal": {
     "code": "PRT",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -1696,21 +2729,74 @@
       }
     ]
   },
+  "Puerto Rico": {
+    "code": "PRI",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Qatar": {
     "code": "QAT",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Republic of the Congo": {
+    "code": "COG",
+    "region": "Middle Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Réunion": {
+    "code": "REU",
+    "region": "Eastern Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Romania": {
     "code": "ROU",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Russia": {
     "code": "RUS",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
     "books": [
       {
@@ -1729,13 +2815,59 @@
   },
   "Rwanda": {
     "code": "RWA",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Saint-Barthélemy": {
+    "code": "BLM",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Saint-Martin": {
+    "code": "MAF",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Saint Helena, Ascension and Tristan da Cunha": {
+    "code": "SHN",
+    "region": "Western Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Saint Kitts and Nevis": {
     "code": "KNA",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -1748,7 +2880,7 @@
   },
   "Saint Lucia": {
     "code": "LCA",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -1759,9 +2891,22 @@
       }
     ]
   },
+  "Saint Pierre and Miquelon": {
+    "code": "SPM",
+    "region": "Northern America",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Saint Vincent and the Grenadines": {
     "code": "VCT",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -1774,24 +2919,38 @@
   },
   "Samoa": {
     "code": "WSM",
-    "region": "oceania",
-    "notes": "",
-    "books": []
-  },
-  "San Marino": {
-    "code": "SMR",
-    "region": "europe-south",
-    "notes": "",
-    "books": []
-  },
-  "Sao Tome and Principe": {
-    "code": "STP",
-    "region": "africa-central",
+    "region": "Polynesia",
     "notes": "",
     "books": [
       {
-        "title": "The Shepherd's House",
-        "isbn": "9781777626471",
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "San Marino": {
+    "code": "SMR",
+    "region": "Southern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "São Tomé and Príncipe": {
+    "code": "STP",
+    "region": "Middle Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
         "read": 0,
         "notes": ""
       }
@@ -1799,13 +2958,20 @@
   },
   "Saudi Arabia": {
     "code": "SAU",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Senegal": {
     "code": "SEN",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
     "books": [
       {
@@ -1824,25 +2990,46 @@
   },
   "Serbia": {
     "code": "SRB",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Seychelles": {
     "code": "SYC",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Sierra Leone": {
     "code": "SLE",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Singapore": {
     "code": "SGP",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1855,31 +3042,59 @@
   },
   "Slovakia": {
     "code": "SVK",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Slovenia": {
     "code": "SVN",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Solomon Islands": {
     "code": "SLB",
-    "region": "oceania",
+    "region": "Melanesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Somalia": {
     "code": "SOM",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "South Africa": {
     "code": "ZAF",
-    "region": "africa-south",
+    "region": "Southern Africa",
     "notes": "",
     "books": [
       {
@@ -1896,9 +3111,22 @@
       }
     ]
   },
+  "South Georgia and the South Sandwich Islands": {
+    "code": "SGS",
+    "region": "South America",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "South Korea": {
     "code": "KOR",
-    "region": "asia-east",
+    "region": "Eastern Asia",
     "notes": "",
     "books": [
       {
@@ -1923,7 +3151,7 @@
   },
   "South Sudan": {
     "code": "SSD",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
     "books": [
       {
@@ -1942,7 +3170,7 @@
   },
   "Spain": {
     "code": "ESP",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
     "books": [
       {
@@ -1955,13 +3183,20 @@
   },
   "Sri Lanka": {
     "code": "LKA",
-    "region": "asia-south",
+    "region": "Southern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Sudan": {
     "code": "SDN",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
     "books": [
       {
@@ -1974,7 +3209,7 @@
   },
   "Suriname": {
     "code": "SUR",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -1991,9 +3226,35 @@
       }
     ]
   },
+  "Svalbard and Jan Mayen": {
+    "code": "SJM",
+    "region": "Northern Europe",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Swaziland": {
+    "code": "SWZ",
+    "region": "Southern Africa",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Sweden": {
     "code": "SWE",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
     "books": [
       {
@@ -2012,19 +3273,33 @@
   },
   "Switzerland": {
     "code": "CHE",
-    "region": "europe-west",
+    "region": "Western Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Syria": {
     "code": "SYR",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Taiwan": {
     "code": "TWN",
-    "region": "asia-east",
+    "region": "",
     "notes": "",
     "books": [
       {
@@ -2049,31 +3324,59 @@
   },
   "Tajikistan": {
     "code": "TJK",
-    "region": "asia-central",
+    "region": "Central Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Tanzania": {
     "code": "TZA",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Thailand": {
     "code": "THA",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Timor-Leste": {
     "code": "TLS",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Togo": {
     "code": "TGO",
-    "region": "africa-west",
+    "region": "Western Africa",
     "notes": "",
     "books": [
       {
@@ -2084,15 +3387,35 @@
       }
     ]
   },
+  "Tokelau": {
+    "code": "TKL",
+    "region": "Polynesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Tonga": {
     "code": "TON",
-    "region": "oceania",
+    "region": "Polynesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Trinidad and Tobago": {
     "code": "TTO",
-    "region": "america-caribbean",
+    "region": "Caribbean",
     "notes": "",
     "books": [
       {
@@ -2105,13 +3428,20 @@
   },
   "Tunisia": {
     "code": "TUN",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Turkey": {
     "code": "TUR",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
     "books": [
       {
@@ -2130,25 +3460,59 @@
   },
   "Turkmenistan": {
     "code": "TKM",
-    "region": "asia-central",
+    "region": "Central Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Turks and Caicos Islands": {
+    "code": "TCA",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Tuvalu": {
     "code": "TUV",
-    "region": "oceania",
+    "region": "Polynesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Uganda": {
     "code": "UGA",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Ukraine": {
     "code": "UKR",
-    "region": "europe-east",
+    "region": "Eastern Europe",
     "notes": "",
     "books": [
       {
@@ -2161,13 +3525,20 @@
   },
   "United Arab Emirates": {
     "code": "ARE",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "United Kingdom": {
     "code": "GBR",
-    "region": "europe-north",
+    "region": "Northern Europe",
     "notes": "",
     "books": [
       {
@@ -2390,7 +3761,7 @@
   },
   "United States": {
     "code": "USA",
-    "region": "america-north",
+    "region": "Northern America",
     "notes": "",
     "books": [
       {
@@ -2521,9 +3892,22 @@
       }
     ]
   },
+  "United States Minor Outlying Islands": {
+    "code": "UMI",
+    "region": "Micronesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Uruguay": {
     "code": "URY",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -2542,25 +3926,46 @@
   },
   "Uzbekistan": {
     "code": "UZB",
-    "region": "asia-central",
+    "region": "Central Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Vanuatu": {
     "code": "VUT",
-    "region": "oceania",
+    "region": "Melanesia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Vatican City": {
     "code": "VAT",
-    "region": "europe-south",
+    "region": "Southern Europe",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Venezuela": {
     "code": "VEN",
-    "region": "america-south",
+    "region": "South America",
     "notes": "",
     "books": [
       {
@@ -2573,7 +3978,7 @@
   },
   "Vietnam": {
     "code": "VNM",
-    "region": "asia-south-east",
+    "region": "South-eastern Asia",
     "notes": "",
     "books": [
       {
@@ -2590,27 +3995,74 @@
       }
     ]
   },
+  "Virgin Islands, U.S.": {
+    "code": "VIR",
+    "region": "Caribbean",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Wallis and Futuna": {
+    "code": "WLF",
+    "region": "Polynesia",
+    "notes": "",
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
   "Western Sahara": {
     "code": "ESH",
-    "region": "africa-north",
+    "region": "Northern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Yemen": {
     "code": "YEM",
-    "region": "asia-west",
+    "region": "Western Asia",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Zambia": {
     "code": "ZMB",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
-    "books": []
+    "books": [
+      {
+        "title": "",
+        "isbn": "",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   },
   "Zimbabwe": {
     "code": "ZWE",
-    "region": "africa-east",
+    "region": "Eastern Africa",
     "notes": "",
     "books": [
       {
@@ -2627,16 +4079,67 @@
       }
     ]
   },
-  "Cook Islands": {
-    "code": "COK",
-    "region": "oceania",
+  "Cape Verde": {
+    "code": "CPV",
+    "region": "africa-west",
     "notes": "",
     "books": []
   },
-  "Niue": {
-    "code": "NIU",
-    "region": "oceania",
+  "Congo": {
+    "code": "COG",
+    "region": "africa-central",
     "notes": "",
     "books": []
+  },
+  "Côte d'Ivoire": {
+    "code": "CIV",
+    "region": "africa-west",
+    "notes": "",
+    "books": []
+  },
+  "Czech Republic": {
+    "code": "CZE",
+    "region": "europe-east",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Unbearable Lightness of Being",
+        "isbn": "9780571367641",
+        "read": 2021,
+        "notes": ""
+      }
+    ]
+  },
+  "Eswatini": {
+    "code": "SWZ",
+    "region": "africa-south",
+    "notes": "",
+    "books": []
+  },
+  "North Macedonia": {
+    "code": "MKD",
+    "region": "europe-south",
+    "notes": "",
+    "books": [
+      {
+        "title": "I'm Not Going Anywhere",
+        "isbn": "9781628974812",
+        "read": 0,
+        "notes": ""
+      }
+    ]
+  },
+  "Sao Tome and Principe": {
+    "code": "STP",
+    "region": "africa-central",
+    "notes": "",
+    "books": [
+      {
+        "title": "The Shepherd's House",
+        "isbn": "9781777626471",
+        "read": 0,
+        "notes": ""
+      }
+    ]
   }
 }
