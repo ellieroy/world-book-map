@@ -545,19 +545,6 @@
       }
     ]
   },
-  "Caspian Sea": {
-    "code": "XCA",
-    "region": "",
-    "notes": "",
-    "books": [
-      {
-        "title": "",
-        "isbn": "",
-        "read": 0,
-        "notes": ""
-      }
-    ]
-  },
   "Cayman Islands": {
     "code": "CYM",
     "region": "Caribbean",
@@ -626,19 +613,6 @@
   "Christmas Island": {
     "code": "CXR",
     "region": "Australia and New Zealand",
-    "notes": "",
-    "books": [
-      {
-        "title": "",
-        "isbn": "",
-        "read": 0,
-        "notes": ""
-      }
-    ]
-  },
-  "Clipperton Island": {
-    "code": "XCL",
-    "region": "",
     "notes": "",
     "books": [
       {
@@ -1299,19 +1273,6 @@
       }
     ]
   },
-  "Hong Kong": {
-    "code": "HKG",
-    "region": "Eastern Asia",
-    "notes": "",
-    "books": [
-      {
-        "title": "",
-        "isbn": "",
-        "read": 0,
-        "notes": ""
-      }
-    ]
-  },
   "Hungary": {
     "code": "HUN",
     "region": "Eastern Europe",
@@ -1679,19 +1640,6 @@
   "Luxembourg": {
     "code": "LUX",
     "region": "Western Europe",
-    "notes": "",
-    "books": [
-      {
-        "title": "",
-        "isbn": "",
-        "read": 0,
-        "notes": ""
-      }
-    ]
-  },
-  "Macao": {
-    "code": "MAC",
-    "region": "Eastern Asia",
     "notes": "",
     "books": [
       {
@@ -2145,7 +2093,7 @@
     ]
   },
   "Northern Cyprus": {
-    "code": "XNC",
+    "code": "ZNC",
     "region": "",
     "notes": "",
     "books": [

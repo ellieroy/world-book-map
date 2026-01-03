@@ -52,6 +52,15 @@ if __name__ == '__main__':
             href = tag.get("href", "")
             code = Path(href).stem if href.startswith("maps/") else None
 
+            # Codes for countries without GADM geometries, small islands, etc
+            codes_to_skip = ['XCA', 'XCL', 'HKG', 'MAC']
+            if code in codes_to_skip:
+                continue
+
+            # Update code for Northern Cyprus to match code used by geometry
+            if code == 'XNC':
+                code = 'ZNC'
+
             # Extract most specific UN geoscheme region for this country using its ISO code
             matching_region = region_df.loc[
                 region_df['ISO-alpha3 Code'] == code,
