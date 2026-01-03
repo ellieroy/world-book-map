@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 GADM_URL = "https://gadm.org/maps.html"
 REGIONS_CSV = './data/un_geoscheme_regions.csv'
-OUTPUT_JSON = './data/country_data_v0.json'
+OUTPUT_JSON = './data/country_data_base.json'
 
 
 if __name__ == '__main__':
