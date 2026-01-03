@@ -1,0 +1,11 @@
+{
+  "name": "world-book-map",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "simplify_geoms": "mapshaper data/geometries/gadm_all_countries.geojson -simplify 10% keep-shapes -clean -o data/geometries/gadm_all_countries_simplified.geojson"
+  },
+  "devDependencies": {
+    "mapshaper": "^0.6.113"
+  }
+}
