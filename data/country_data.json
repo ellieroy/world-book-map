@@ -849,9 +849,9 @@
     "notes": "",
     "books": [
       {
-        "title": "",
-        "isbn": "",
-        "read": 0,
+        "title": "The Unbearable Lightness of Being",
+        "isbn": "9780571367641",
+        "read": 2021,
         "notes": ""
       }
     ]
@@ -1974,8 +1974,8 @@
     "notes": "",
     "books": [
       {
-        "title": "",
-        "isbn": "",
+        "title": "I'm Not Going Anywhere",
+        "isbn": "9781628974812",
         "read": 0,
         "notes": ""
       }
@@ -2897,8 +2897,8 @@
     "notes": "",
     "books": [
       {
-        "title": "",
-        "isbn": "",
+        "title": "The Shepherd's House",
+        "isbn": "9781777626471",
         "read": 0,
         "notes": ""
       }
@@ -4022,69 +4022,6 @@
       {
         "title": "Nervous Conditions",
         "isbn": "9780571368136",
-        "read": 0,
-        "notes": ""
-      }
-    ]
-  },
-  "Cape Verde": {
-    "code": "CPV",
-    "region": "africa-west",
-    "notes": "",
-    "books": []
-  },
-  "Congo": {
-    "code": "COG",
-    "region": "africa-central",
-    "notes": "",
-    "books": []
-  },
-  "Côte d'Ivoire": {
-    "code": "CIV",
-    "region": "africa-west",
-    "notes": "",
-    "books": []
-  },
-  "Czech Republic": {
-    "code": "CZE",
-    "region": "europe-east",
-    "notes": "",
-    "books": [
-      {
-        "title": "The Unbearable Lightness of Being",
-        "isbn": "9780571367641",
-        "read": 2021,
-        "notes": ""
-      }
-    ]
-  },
-  "Eswatini": {
-    "code": "SWZ",
-    "region": "africa-south",
-    "notes": "",
-    "books": []
-  },
-  "North Macedonia": {
-    "code": "MKD",
-    "region": "europe-south",
-    "notes": "",
-    "books": [
-      {
-        "title": "I'm Not Going Anywhere",
-        "isbn": "9781628974812",
-        "read": 0,
-        "notes": ""
-      }
-    ]
-  },
-  "Sao Tome and Principe": {
-    "code": "STP",
-    "region": "africa-central",
-    "notes": "",
-    "books": [
-      {
-        "title": "The Shepherd's House",
-        "isbn": "9781777626471",
         "read": 0,
         "notes": ""
       }
