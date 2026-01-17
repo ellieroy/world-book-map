@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "simplify_geoms": "mapshaper data/geometries/gadm_all_countries.geojson -simplify 10% keep-shapes -clean -o data/geometries/gadm_all_countries_simplified.geojson"
+    "merge_geoms": "geojson-merge data/geometries/gadm/*.geojson > data/geometries/merged.geojson",
+    "simplify_geoms": "mapshaper data/geometries/merged.geojson -simplify 10% keep-shapes -clean -o data/geometries/simplified.geojson"
   },
   "devDependencies": {
+    "@mapbox/geojson-merge": "^1.1.1",
     "mapshaper": "^0.6.113"
   }
 }
