@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 
 
-BOOK_JSON = 'data/reference/book_data_template.json'
+BOOK_JSON = 'data/book_data.json'
 OUTPUT_DIR = 'data/geometries/gadm'
 
 
