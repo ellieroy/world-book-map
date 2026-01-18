@@ -30,6 +30,7 @@ if __name__ == "__main__":
     un_data_df.columns = (
         un_data_df.columns.str.lower().str.replace(" ", "_").str.replace("-", "_")
     )
+    un_data_df = un_data_df.rename(columns={"iso_alpha3_code": "iso_code"})
 
     # Get GADM page content
     response = requests.get(GADM_URL, timeout=10)
@@ -56,12 +57,10 @@ if __name__ == "__main__":
             gadm_dict[iso_code] = country_name
 
     # Create dataframe from dict
-    gadm_data_df = pd.DataFrame(
-        list(gadm_dict.items()), columns=["iso_alpha3_code", "name"]
-    )
+    gadm_data_df = pd.DataFrame(list(gadm_dict.items()), columns=["iso_code", "name"])
 
     # Merge dataframes on iso code and write to csv
-    output_df = gadm_data_df.merge(un_data_df, on="iso_alpha3_code", how="left")
+    output_df = gadm_data_df.merge(un_data_df, on="iso_code", how="left")
 
     Path(OUTPUT_CSV_PATH).parent.mkdir(parents=True, exist_ok=True)
     output_df.to_csv(OUTPUT_CSV_PATH, index=False)

@@ -1,4 +1,4 @@
-iso_alpha3_code,name,region_name,sub_region_name,intermediate_region_name
+iso_code,name,region_name,sub_region_name,intermediate_region_name
 AFG,Afghanistan,Asia,Southern Asia,
 XAD,Akrotiri and Dhekelia,,,
 ALA,Åland,Europe,Northern Europe,

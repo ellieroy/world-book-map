@@ -43,8 +43,8 @@ if __name__ == "__main__":
     df = pd.read_csv(COUNTRY_INFO_PATH)
 
     # Clean-up dataframe
-    df = df[~df["iso_alpha3_code"].isin(ISO_CODES_TO_SKIP)]
-    df = df.set_index("iso_alpha3_code")
+    df = df[~df["iso_code"].isin(ISO_CODES_TO_SKIP)]
+    df = df.set_index("iso_code")
     df = df.fillna("")
 
     # Generate template content for each country
