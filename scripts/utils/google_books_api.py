@@ -29,7 +29,8 @@ def download_thumbnail(url, thumbnail_path):
     content_type = response.headers.get("Content-Type", "")
     if "image" not in content_type:
         raise ValueError(
-            f"Invalid content type: expected image but got '{content_type}'")
+            f"Invalid content type: expected image but got '{content_type}'"
+        )
 
     with open(thumbnail_path, "wb") as file:
         file.write(response.content)

@@ -4,8 +4,8 @@ import pandas as pd
 from pathlib import Path
 
 
-BOOK_JSON = 'data/book_data.json'
-OUTPUT_DIR = 'data/geometries/gadm'
+BOOK_JSON = "data/book_data.json"
+OUTPUT_DIR = "data/geometries/gadm"
 
 
 def download_gadm_geojson(iso_code: str, output_path: str) -> None:
@@ -21,7 +21,7 @@ def download_gadm_geojson(iso_code: str, output_path: str) -> None:
         print(f"> File already exists, skipping download: {output_path}")
         return
 
-    gadm_url = f'https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_{iso_code}_0.json'
+    gadm_url = f"https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_{iso_code}_0.json"
 
     try:
         response = requests.get(gadm_url, timeout=30)
@@ -32,17 +32,18 @@ def download_gadm_geojson(iso_code: str, output_path: str) -> None:
             print(f"> Saved GeoJSON: {output_path}")
         else:
             print(
-                f"> Failed to download from {gadm_url} (status {response.status_code})")
+                f"> Failed to download from {gadm_url} (status {response.status_code})"
+            )
     except requests.RequestException as e:
         print(f"> Request error for {gadm_url}: {e}")
 
 
 if __name__ == "__main__":
 
-    df = pd.read_json(BOOK_JSON, orient='index')
+    df = pd.read_json(BOOK_JSON, orient="index")
 
     Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 
-    for code, country in zip(df.index, df['name']):
+    for code, country in zip(df.index, df["name"]):
         geojson_path = f'{OUTPUT_DIR}/{code}_{country.replace(" ", "_")}.geojson'
         download_gadm_geojson(code, geojson_path)
