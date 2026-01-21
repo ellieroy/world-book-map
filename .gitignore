@@ -15,6 +15,10 @@ node_modules/
 # VS code
 .vscode/
 
+# Log files
+*.log
+logs/
+
 # Other data
 data/geometries
 data/book_covers
